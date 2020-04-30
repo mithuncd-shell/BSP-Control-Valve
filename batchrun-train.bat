@@ -1,0 +1,1 @@
+train-valves.bat > train-results.log 2>&1
