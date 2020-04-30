@@ -1,2 +1,2 @@
 # BSP-Control-Valve
-BSP Control Valve . PAM point solution
+PAM point solution code used for BSP CV.
